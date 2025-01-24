@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /opt/PHANTX/WAFninja
+
+python2 wafninja.py "$@"
