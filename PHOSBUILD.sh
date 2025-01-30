@@ -1,6 +1,6 @@
-rm -rf /opt/PHANTX/wafninja
+rm -rf /opt/PHANTX/WAFninja
 
-cp -Rf $(pwd) /opt/PHANTX/wafninja
+cp -Rf $(pwd) /opt/PHANTX/WAFninja
 
 if [ $? -eq 0 ]
 then
