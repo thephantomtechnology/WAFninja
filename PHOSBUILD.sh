@@ -14,4 +14,4 @@ fi
 cp -Rf phantxbin/* /opt/PHANTX/bin
 
 chown -R phantx:phantx /opt/PHANTX
-chmod -R 755 /opt/PHANTX
+chmod -R 755 /opt/PHANTX/bin
