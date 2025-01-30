@@ -1,5 +1,7 @@
 rm -rf /opt/PHANTX/WAFninja
 
+rm -rf .git*
+
 cp -Rf $(pwd) /opt/PHANTX/WAFninja
 
 if [ $? -eq 0 ]
